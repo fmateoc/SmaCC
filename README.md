@@ -9,5 +9,5 @@ To export the code in fileout format, I loaded the latest Glamorous Toolkit in P
 It was not fast, but it was conceptually easy - if you know of a better way to do it, please let me know.
 
 One file per package is not a nice granularity for browsing code, but Smalltalk is not made to be browsed as files anyway.
-This looks to me the most convenient way for sharing the code.
+This does look to me as the most convenient way for sharing the code.
 It is very easy to export (file out) a whole package from an image, it is also very convenient to file a whole package in
